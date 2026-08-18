@@ -69,7 +69,7 @@ print(add(30,40,d=10,c=20)) ## rule: first postional arrguments then keyword'''
 
 print(add(c=30,a=20,b=10))'''
 
-# key word arrguments
+# key word only arrguments
 '''def add(*,a,b,c): ## '*' infront of arrguemnts we can declare keyword only arrguemnts
     return a+b+c
 
