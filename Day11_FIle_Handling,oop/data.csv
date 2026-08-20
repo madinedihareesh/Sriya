@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Salesperson
+1001,2026-01-01,Ravi Kumar,Hyderabad,Laptop,Electronics,1,55000,55000,Credit Card,Amit
+1002,2026-01-01,Priya Sharma,Bangalore,Mouse,Accessories,2,500,1000,UPI,Sneha
+1003,2026-01-02,Arjun Reddy,Chennai,Keyboard,Accessories,1,1500,1500,Cash,Rahul
+1004,2026-01-02,Neha Joshi,Mumbai,Monitor,Electronics,1,12000,12000,Debit Card,Kiran
+1005,2026-01-03,Vikram Singh,Pune,Printer,Office Supplies,1,8500,8500,UPI,Amit
+1006,2026-01-03,Anjali Mehta,Delhi,Tablet,Electronics,2,18000,36000,Credit Card,Sneha
+1007,2026-01-04,Rohit Verma,Hyderabad,Headphones,Accessories,3,2500,7500,Cash,Rahul
+1008,2026-01-04,Meera Nair,Kolkata,Smartphone,Electronics,1,30000,30000,UPI,Kiran
+1009,2026-01-05,Karan Patel,Ahmedabad,Chair,Furniture,2,4500,9000,Debit Card,Amit
+1010,2026-01-05,Divya Rao,Chennai,Desk,Furniture,1,7000,7000,Credit Card,Sneha
+1011,2026-01-06,Suresh Babu,Hyderabad,Laptop,Electronics,1,62000,62000,Credit Card,Rahul
+1012,2026-01-06,Kavya Iyer,Bangalore,Mouse,Accessories,4,450,1800,UPI,Kiran
+1013,2026-01-07,Ajay Kumar,Pune,Keyboard,Accessories,2,1600,3200,Cash,Amit
+1014,2026-01-07,Shreya Das,Delhi,Monitor,Electronics,1,15000,15000,Debit Card,Sneha
+1015,2026-01-08,Ramesh Gupta,Mumbai,Printer,Office Supplies,1,9500,9500,Credit Card,Rahul
+1016,2026-01-08,Nikita Shah,Ahmedabad,Tablet,Electronics,1,22000,22000,UPI,Kiran
+1017,2026-01-09,Harish Rao,Hyderabad,Headphones,Accessories,2,2800,5600,Cash,Amit
+1018,2026-01-09,Pooja Singh,Chennai,Smartphone,Electronics,2,28000,56000,Debit Card,Sneha
+1019,2026-01-10,Akhil Jain,Bangalore,Chair,Furniture,1,5000,5000,UPI,Rahul
+1020,2026-01-10,Deepika Menon,Kolkata,Desk,Furniture,2,7500,15000,Credit Card,Kiran
+1021,2026-01-11,Sanjay Kumar,Delhi,Laptop,Electronics,1,58000,58000,Credit Card,Amit
+1022,2026-01-11,Ritika Sharma,Pune,Mouse,Accessories,3,550,1650,UPI,Sneha
+1023,2026-01-12,Vivek Reddy,Hyderabad,Keyboard,Accessories,1,1400,1400,Cash,Rahul
+1024,2026-01-12,Asha Nair,Mumbai,Monitor,Electronics,2,13000,26000,Debit Card,Kiran
+1025,2026-01-13,Manoj Verma,Chennai,Printer,Office Supplies,1,8700,8700,UPI,Amit
+1026,2026-01-13,Keerthi Rao,Bangalore,Tablet,Electronics,2,20000,40000,Credit Card,Sneha
+1027,2026-01-14,Varun Patel,Ahmedabad,Headphones,Accessories,1,3200,3200,Cash,Rahul
+1028,2026-01-14,Snehal Gupta,Delhi,Smartphone,Electronics,1,35000,35000,Debit Card,Kiran
+1029,2026-01-15,Arvind Kumar,Hyderabad,Chair,Furniture,3,4200,12600,UPI,Amit
+1030,2026-01-15,Rekha Joshi,Pune,Desk,Furniture,1,6800,6800,Credit Card,Sneha
+1031,2026-01-16,Rajesh Singh,Mumbai,Laptop,Electronics,1,60000,60000,Credit Card,Rahul
+1032,2026-01-16,Swathi Iyer,Chennai,Mouse,Accessories,5,400,2000,UPI,Kiran
+1033,2026-01-17,Anil Sharma,Bangalore,Keyboard,Accessories,2,1700,3400,Cash,Amit
+1034,2026-01-17,Preethi Nair,Kolkata,Monitor,Electronics,1,14000,14000,Debit Card,Sneha
+1035,2026-01-18,Sunil Gupta,Delhi,Printer,Office Supplies,2,9100,18200,Credit Card,Rahul
+1036,2026-01-18,Lavanya Rao,Hyderabad,Tablet,Electronics,1,21000,21000,UPI,Kiran
+1037,2026-01-19,Prakash Jain,Pune,Headphones,Accessories,4,2600,10400,Cash,Amit
+1038,2026-01-19,Sonia Patel,Ahmedabad,Smartphone,Electronics,1,33000,33000,Debit Card,Sneha
+1039,2026-01-20,Gopal Verma,Chennai,Chair,Furniture,2,4600,9200,UPI,Rahul
+1040,2026-01-20,Anusha Menon,Bangalore,Desk,Furniture,1,7200,7200,Credit Card,Kiran
+1041,2026-01-21,Harsha Kumar,Hyderabad,Laptop,Electronics,2,57000,114000,Credit Card,Amit
+1042,2026-01-21,Megha Sharma,Delhi,Mouse,Accessories,1,600,600,UPI,Sneha
+1043,2026-01-22,Ravi Teja,Mumbai,Keyboard,Accessories,3,1550,4650,Cash,Rahul
+1044,2026-01-22,Divya Nair,Pune,Monitor,Electronics,1,12500,12500,Debit Card,Kiran
+1045,2026-01-23,Abhishek Singh,Hyderabad,Printer,Office Supplies,1,8900,8900,UPI,Amit
+1046,2026-01-23,Neeraja Rao,Chennai,Tablet,Electronics,2,19500,39000,Credit Card,Sneha
+1047,2026-01-24,Kishore Patel,Bangalore,Headphones,Accessories,2,2700,5400,Cash,Rahul
+1048,2026-01-24,Shruti Shah,Ahmedabad,Smartphone,Electronics,1,31000,31000,Debit Card,Kiran
+1049,2026-01-25,Ajith Kumar,Kolkata,Chair,Furniture,1,4800,4800,UPI,Amit
+1050,2026-01-25,Komal Verma,Delhi,Desk,Furniture,2,7600,15200,Credit Card,Sneha
+1051,2026-01-26,Rohini Gupta,Mumbai,Laptop,Electronics,1,61000,61000,Credit Card,Rahul
+1052,2026-01-26,Sameer Rao,Pune,Mouse,Accessories,2,520,1040,UPI,Kiran
+1053,2026-01-27,Naveen Sharma,Hyderabad,Keyboard,Accessories,1,1450,1450,Cash,Amit
+1054,2026-01-27,Shalini Iyer,Chennai,Monitor,Electronics,2,13500,27000,Debit Card,Sneha
+1055,2026-01-28,Deepak Reddy,Bangalore,Printer,Office Supplies,1,9200,9200,Credit Card,Rahul
+1056,2026-01-28,Vaishnavi Menon,Delhi,Tablet,Electronics,1,20500,20500,UPI,Kiran
+1057,2026-01-29,Karthik Patel,Ahmedabad,Headphones,Accessories,3,2900,8700,Cash,Amit
+1058,2026-01-29,Renu Sharma,Hyderabad,Smartphone,Electronics,2,34000,68000,Debit Card,Sneha
+1059,2026-01-30,Naresh Kumar,Mumbai,Chair,Furniture,2,4400,8800,UPI,Rahul
+1060,2026-01-30,Bindu Rao,Kolkata,Desk,Furniture,1,7100,7100,Credit Card,Kiran
+1061,2026-01-31,Vinay Gupta,Delhi,Laptop,Electronics,1,59000,59000,Credit Card,Amit
+1062,2026-01-31,Pallavi Nair,Pune,Mouse,Accessories,4,480,1920,UPI,Sneha
+1063,2026-02-01,Sachin Verma,Hyderabad,Keyboard,Accessories,2,1650,3300,Cash,Rahul
+1064,2026-02-01,Keerthana Rao,Chennai,Monitor,Electronics,1,12800,12800,Debit Card,Kiran
+1065,2026-02-02,Rajat Sharma,Bangalore,Printer,Office Supplies,2,9400,18800,UPI,Amit
+1066,2026-02-02,Nandini Patel,Ahmedabad,Tablet,Electronics,1,21500,21500,Credit Card,Sneha
+1067,2026-02-03,Tejas Kumar,Mumbai,Headphones,Accessories,2,2750,5500,Cash,Rahul
+1068,2026-02-03,Aarti Menon,Delhi,Smartphone,Electronics,1,32000,32000,Debit Card,Kiran
+1069,2026-02-04,Raghu Reddy,Hyderabad,Chair,Furniture,3,4300,12900,UPI,Amit
+1070,2026-02-04,Suhani Shah,Kolkata,Desk,Furniture,2,7400,14800,Credit Card,Sneha
+1071,2026-02-05,Pradeep Kumar,Chennai,Laptop,Electronics,1,60500,60500,Credit Card,Rahul
+1072,2026-02-05,Monika Sharma,Bangalore,Mouse,Accessories,3,530,1590,UPI,Kiran
+1073,2026-02-06,Akshay Verma,Pune,Keyboard,Accessories,1,1500,1500,Cash,Amit
+1074,2026-02-06,Geetha Rao,Hyderabad,Monitor,Electronics,2,13200,26400,Debit Card,Sneha
+1075,2026-02-07,Sandeep Jain,Mumbai,Printer,Office Supplies,1,8800,8800,Credit Card,Rahul
+1076,2026-02-07,Lekha Nair,Delhi,Tablet,Electronics,2,19800,39600,UPI,Kiran
+1077,2026-02-08,Chandan Patel,Ahmedabad,Headphones,Accessories,1,3100,3100,Cash,Amit
+1078,2026-02-08,Priyanka Gupta,Chennai,Smartphone,Electronics,1,36000,36000,Debit Card,Sneha
+1079,2026-02-09,Murali Kumar,Hyderabad,Chair,Furniture,2,4700,9400,UPI,Rahul
+1080,2026-02-09,Sowmya Rao,Bangalore,Desk,Furniture,1,7300,7300,Credit Card,Kiran
+1081,2026-02-10,Ritesh Sharma,Pune,Laptop,Electronics,1,62500,62500,Credit Card,Amit
+1082,2026-02-10,Anita Menon,Kolkata,Mouse,Accessories,5,450,2250,UPI,Sneha
+1083,2026-02-11,Dinesh Verma,Delhi,Keyboard,Accessories,2,1720,3440,Cash,Rahul
+1084,2026-02-11,Kavitha Rao,Hyderabad,Monitor,Electronics,1,14500,14500,Debit Card,Kiran
+1085,2026-02-12,Nikhil Patel,Mumbai,Printer,Office Supplies,2,9300,18600,UPI,Amit
+1086,2026-02-12,Rashmi Shah,Ahmedabad,Tablet,Electronics,1,22500,22500,Credit Card,Sneha
+1087,2026-02-13,Suraj Kumar,Chennai,Headphones,Accessories,3,2850,8550,Cash,Rahul
+1088,2026-02-13,Ananya Gupta,Bangalore,Smartphone,Electronics,2,34500,69000,Debit Card,Kiran
+1089,2026-02-14,Ravi Shankar,Hyderabad,Chair,Furniture,1,4900,4900,UPI,Amit
+1090,2026-02-14,Neha Rao,Pune,Desk,Furniture,2,7800,15600,Credit Card,Sneha
+1091,2026-02-15,Vikas Sharma,Delhi,Laptop,Electronics,1,61500,61500,Credit Card,Rahul
+1092,2026-02-15,Harini Menon,Mumbai,Mouse,Accessories,4,510,2040,UPI,Kiran
+1093,2026-02-16,Rahul Patel,Ahmedabad,Keyboard,Accessories,3,1580,4740,Cash,Amit
+1094,2026-02-16,Shravya Rao,Hyderabad,Monitor,Electronics,1,13800,13800,Debit Card,Sneha
+1095,2026-02-17,Kiran Kumar,Chennai,Printer,Office Supplies,1,9700,9700,Credit Card,Rahul
+1096,2026-02-17,Poonam Gupta,Bangalore,Tablet,Electronics,2,21200,42400,UPI,Kiran
+1097,2026-02-18,Arun Verma,Pune,Headphones,Accessories,2,2950,5900,Cash,Amit
+1098,2026-02-18,Latha Nair,Kolkata,Smartphone,Electronics,1,35500,35500,Debit Card,Sneha
+1099,2026-02-19,Satish Rao,Hyderabad,Chair,Furniture,3,4500,13500,UPI,Rahul
+1100,2026-02-19,Madhu Sharma,Delhi,Desk,Furniture,1,7900,7900,Credit Card,Kiran
